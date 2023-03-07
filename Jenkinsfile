@@ -2,7 +2,7 @@
 
 env.component = "cart"
 env.app_lang = "nodejs"
-enc.extraFiles = " "
+env.extraFiles = " "
 ci()
 
 
